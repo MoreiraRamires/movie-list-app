@@ -7,6 +7,9 @@ body {
 	overflow-x: auto;
   overflow-y: hidden;
 	flex-wrap: nowrap;
+}
+
+.row > *{
   width: auto !important;
 }
 
