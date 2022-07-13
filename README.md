@@ -2,8 +2,7 @@
 Movie List App
 </h1>
 
-![alt text](https://user-images.githubusercontent.com/28766048/140630612-b2dbe16e-3b0e-430f-b347-1dfd251c306f.png)
-
+<img src="/public/photo.png" alt="Movie List"/>
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
