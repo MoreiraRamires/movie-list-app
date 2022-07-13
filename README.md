@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Usar uma API real para pesquisar filmes enquanto digitamos
 - Adicionar filmes e removê-los de nossos favoritos
-  X Salvar os favoritos no armazenamento local (localStotage)
+- [X] Salvar os favoritos no armazenamento local (localStotage)
 
 ## 🚀 Como executar o projeto
 
