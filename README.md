@@ -3,6 +3,7 @@ Movie List App
 </h1>
 
 <img src="/public/photo.png" alt="Movie List"/>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -13,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Usar uma API real para pesquisar filmes enquanto digitamos
 - Adicionar filmes e removê-los de nossos favoritos
-- Salvar os favoritos no armazenamento local (localStotage)
+  X Salvar os favoritos no armazenamento local (localStotage)
 
 ## 🚀 Como executar o projeto
 
